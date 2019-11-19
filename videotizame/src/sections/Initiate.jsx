@@ -11,11 +11,9 @@ const Initiate =()=>{
             <div className='Initiate-container'>
                 <br/>
                 <Logbtn/>
-                <br/> <br/> <br/> <br/>
                 <Info />
-                <br/>
                 <Regbtn />
-
+                <br />
             </div>
         </div>
     )
