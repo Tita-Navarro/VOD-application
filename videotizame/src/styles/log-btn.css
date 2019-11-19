@@ -1,0 +1,16 @@
+.log-text{
+    color: white;
+}
+.log-btn{
+    border-radius: 10%;
+    float:right;
+    margin-right:30px;
+    background-color: rgb(126, 3, 3);
+    font-size: 21px;
+    border: solid 1px rgb(126, 3, 3);;
+    line-height: 45px;
+    text-align: center;
+    text-decoration: none;
+    width: 100px;
+    font-family: 'Montserrat';
+}
