@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f23838f73604bb9d0202008e9cece1ef",
+    "revision": "afe9abe149a8202de4f3928f0366990d",
     "url": "/VOD-application/index.html"
   },
   {
-    "revision": "fed3560230a6a07b1822",
-    "url": "/VOD-application/static/css/main.a21c28e0.chunk.css"
+    "revision": "e6fa664d02f21fe881b8",
+    "url": "/VOD-application/static/css/main.e699ba4d.chunk.css"
   },
   {
-    "revision": "81fb2b7b04ac5cc68431",
-    "url": "/VOD-application/static/js/2.73c82c7b.chunk.js"
+    "revision": "d49928a6a4dd785e023a",
+    "url": "/VOD-application/static/js/2.d7a0ddcd.chunk.js"
   },
   {
-    "revision": "fed3560230a6a07b1822",
-    "url": "/VOD-application/static/js/main.1c8d5aca.chunk.js"
+    "revision": "e6fa664d02f21fe881b8",
+    "url": "/VOD-application/static/js/main.f794edcf.chunk.js"
   },
   {
     "revision": "288df9f3b22b24ddcb83",
