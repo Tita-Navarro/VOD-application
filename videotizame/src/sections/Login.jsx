@@ -1,7 +1,7 @@
 import React from 'react';
 import Loginform from '../components/Loginform';
 
-const Login_ =()=>{
+const Login =()=>{
     return(
         <div className='login-container'>
             <Loginform />
@@ -9,4 +9,4 @@ const Login_ =()=>{
     );
 }
 
-export default Login_;
+export default Login;

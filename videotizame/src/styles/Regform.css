@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+
+.reg-container{
+    background: #fff;
+    display: block;
+    width: 350px;
+    height:450px;
+    margin-left: 550px;
+    margin-top: 100px;
+}
+.brand-pic{
+    width: 100px;
+    margin-left:125px;
+    margin-top: 30px;
+}
+.reg-text2{
+    font-family: 'Montserrat';
+    text-align: center;
+}
+.name-box{
+    margin-left: 75px;
+    margin-bottom: 25px;
+    margin-top: 15px;
+    width: 200px;
+    height: 30px;
+    font-size: 1rem;
+    border: none;
+    border-bottom:solid 1px grey;
+    font-family: 'Montserrat';
+}
+.mail-box, .pass-box{
+    margin-left: 75px;
+    margin-bottom: 25px;
+    width: 200px;
+    height:30px;
+    font-size: 1rem;
+    border-style: none;
+    border-bottom: solid 1px grey;
+    font-family: 'Montserrat';
+}
+.btn-submit{
+    margin-left:135px;
+    background: rgb(126, 3, 3);
+    color: white;
+    font-size:1rem;
+    font-family: 'Montserrat';
+    border-radius: 9%;
+}
+.log-text2{
+    margin-left: 5px;
+    text-align: center;
+    font-size: 8px;
+    font-family: 'Montserrat';
+}
+.back{
+    margin: 45px;
+    color: white;
+    font-family: 'Montserrat';
+    font-size: 1rem;
+    text-decoration: none;
+}
+.back:hover{
+    text-decoration: underline;
+}
