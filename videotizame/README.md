@@ -22,3 +22,4 @@ The idea to create a great app.
  And some of the results can be like this:
 
  
+![result](https://raw.githubusercontent.com/Tita-Navarro/VOD-application/master/videotizame/src/images/vod-app-screen.png)
