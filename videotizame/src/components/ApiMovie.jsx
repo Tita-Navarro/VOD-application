@@ -40,6 +40,11 @@ function movieCard(movie){
     newMovie.contents= [];
 
     for(let i=1; i<=20; i++){
-        
+        if(movie[`entries${i}`]!== '' && movie[`movies${i}`] !== ''){
+            newMovie.contents.push({
+                url: movie[`contents${i}`],
+            })
+        }
     }
+    return newMovie;
 }
